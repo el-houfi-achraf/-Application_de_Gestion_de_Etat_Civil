@@ -1,4 +1,4 @@
-# Exercice 3 - Application de Gestion de l'État Civil
+# Application de Gestion de l'État Civil
 
 ## Description
 Application de gestion de l'état civil permettant de gérer les citoyens et leurs relations matrimoniales dans une province, développée avec **Hibernate** et **Spring Framework**.
